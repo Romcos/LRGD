@@ -52,3 +52,4 @@ def show_trajs(Z1, Z2 = None, f= lambda x:0, title = "a plot", num = 5, savename
         plt.savefig(savename, bbox_inches='tight')
 
     plt.show()
+    
